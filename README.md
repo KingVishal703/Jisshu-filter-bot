@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/0404c85f392d80d67e61c-c21bdfca539f508eb3.jpg" alt="Movies-king-Auto-filter">
+  <img src="" alt="Movies-king-Auto-filter">
 </p>
 <h1 align="center">
   <a href="https://telegram.me/https://t.me/Movies_King_Update">Movies king Auto Filter Bot</a>
